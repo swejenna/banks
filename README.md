@@ -1,4 +1,4 @@
-#Bank Information Application
+# Bank Information Application
 This project was made for class D280 (JavaScript Programming) during the Angular section.
 
 ## App explained
