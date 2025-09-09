@@ -1,24 +1,17 @@
 # Bank Information Application
-This project was made for class D280 (JavaScript Programming) during the Angular section.
+This project was made for class D280 (JavaScript Programming) during the Angular section. Since then, I have updated the UI, information and data being used to reflect Alaska banks.
 
 ## App explained
 This app lets the user select a bank from the given list and view the banks information like: Bank ID, Bank Name, Bank Website and Banks HQ address.
 
 ## App In Action
-Initial View:
+- Initial View:
+  
 <img width="349" height="520" alt="Screenshot 2025-09-08 at 3 16 26 PM" src="https://github.com/user-attachments/assets/bc4216f7-ba25-4daf-aa8c-f9fd5ca039ee" />
 
-View after selecting a Bank:
-<img width="333" height="695" alt="Screenshot 2025-09-08 at 3 16 39 PM" src="https://github.com/user-attachments/assets/229905c7-8bdb-4097-91fa-ae546dcc3dcd" />
-<img width="340" height="708" alt="Screenshot 2025-09-08 at 3 16 51 PM" src="https://github.com/user-attachments/assets/2cefb6d2-4a9a-4725-9969-8459ec27cec8" />
+- View after selecting a Bank:
 
-
-
-
-
-
-
-
+<img width="1272" height="846" alt="Screenshot 2025-09-09 at 1 21 15 PM" src="https://github.com/user-attachments/assets/23afb6f0-e61e-4f4b-a1a1-6c5b032dfb78" />
 
 
 # Banks Project Startup
