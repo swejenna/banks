@@ -11,5 +11,5 @@ import { BankDetailComponent } from './bank-detail/bank-detail.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Investment Banks';
+  title = 'Banks Of Alaska';
 }
